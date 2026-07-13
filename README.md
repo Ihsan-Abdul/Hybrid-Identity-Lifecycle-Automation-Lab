@@ -8,7 +8,7 @@
 
 This project mirrors the onboarding, provisioning, licensing, and offboarding activities that Service Desk, IT Operations, and Identity Administration teams handle daily in Microsoft hybrid environments.
 
-It was built iteratively rather than designed upfront. Each phase hit a real limitation that made the next one necessary. The goal wasn't just to create users, it was to manage their full lifecycle, control access, enforce security, and maintain the kind of governance visibility that enterprise IAM environments actually require.
+The project was built iteratively rather than designed upfront. Each phase hit a limitation that made the next one necessary. The goal wasn't just to create users, it was to manage their full lifecycle, control access, enforce security, and maintain the kind of governance visibility that enterprise IAM environments actually require.
 
 The environment uses Windows Server 2022, Active Directory, PowerShell, Microsoft Entra ID, Microsoft Graph, Microsoft Entra Connect, and Microsoft Intune.
 
